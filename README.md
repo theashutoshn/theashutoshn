@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, I'm Ashutosh 👋🏽 
 
-<!--
-**theashutoshn/theashutoshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3D Artist-turned-Game Developer. I am passionate about games, AR/VR and 3D Design
+ 
+- Check out my [LinkedIn](https://www.linkedin.com/in/theashutoshn) to learn more about me.
 
-Here are some ideas to get you started:
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Game Development:** `C#` `Unity3D`
+ 
+**3D:** `Blender` `RizomUV`
+
+**3D Texturing:** `Substance Painter` `Substacne Designer` `Photoshop` 
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/theashutoshn). 
