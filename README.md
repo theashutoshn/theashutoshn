@@ -1,6 +1,6 @@
 ### Hey, I'm Ashutosh 👋🏽 
 
-I'm a 3D Artist-turned-Game Developer. I am passionate about games, AR/VR and 3D Design
+I'm a Unity Developer. I am passionate about games, AR/VR and 3D Design
 
 ## 📦 Toolbox
 
